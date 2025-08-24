@@ -1,4 +1,4 @@
-# Cteam_program\n
-src :       receive(esp32)\n
-CteamSend : send(nucleo)\n
-差動二輪のプログラムです。\n
+# Cteam_program  
+src :       receive(esp32)  
+CteamSend : send(nucleo)  
+差動二輪のプログラムです。  
